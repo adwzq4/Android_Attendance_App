@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Class Overview</string>
+    <string name="classDetails">
+        "%s
+        Days: %s
+        Students enrolled: %d
+        Present rate: %.2f%%
+        Late rate: %.2f%%
+        Absent rate: %.2f%%
+        Unknown rate: %.2f%%"</string>
+    <string name="absentLabel"> Absent</string>
+    <string name="presentLabel"> Present</string>
+    <string name="lateLabel"> Late</string>
+    <string name="unknownLabel"> Unknown</string>
+    <string name="resetLabel">Reset</string>
+    <string name="studentJim">Jim</string>
+    <string name="title_activity_attendance">Take Attendance</string>
+</resources>
